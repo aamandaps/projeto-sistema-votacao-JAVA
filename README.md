@@ -7,7 +7,7 @@
 
 Projeto de um **Sistema de Votação** desenvolvido inteiramente em **Java**, criado para consolidar meus estudos iniciais de **Programação Orientada a Objetos (POO)**, manipulação e gravação de arquivos de texto, algoritmos de ordenação e lógica de programação com vetores e objetos.
 
-O sistema simula o registro de **200 votos** distribuídos entre **11 seções eleitorais (0 a 10)** e **301 candidatos (0 a 300)**, utilizando menus interativos via `JOptionPane`.
+O sistema simula o registro de **200 votos** distribuídos entre **11 seções eleitorais (0 a 10)** e **301 candidatos (0 a 300)**, utilizando menus interativos via `JOptionPane`. Estrutura:
 ```
 src/
 ├── Main.java       # Classe principal com a inicialização dos objetos e o menu interativo
